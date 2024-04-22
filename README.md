@@ -25,33 +25,18 @@ _Disclaimer: (Doc under construction) I know I could do a lot better job at writ
 
 ### Preview
 
-#### Nerdtree
 
-![Nerdtree](./screenshots/img01.png?raw=true "Nerdtree")
+![Preview](./screenshots/img01.png?raw=true "Nerdtree")
 
-<hr>
 
-#### Currently open buffers
+![Preview](./screenshots/img02.png?raw=true "Currently open buffers")
 
-![Currently open buffers](./screenshots/img02.png?raw=true "Currently open buffers")
+![Preview](./screenshots/img03.png?raw=true "Vim motion")
 
-<hr>
+![Preview](./screenshots/img05.png?raw=true "Airline")
 
-#### Vim motion for easy navigation
 
-![Vim motion](./screenshots/img03.png?raw=true "Vim motion")
-
-<hr>
-
-#### Airline
-
-![Airline](./screenshots/img05.png?raw=true "Airline")
-
-<hr>
-
-#### Search across all files
-
-![Search across all files](./screenshots/img04.png?raw=true "Search across all files")
+![Preview](./screenshots/img04.png?raw=true "Search across all files")
 
 ... and a lot more plugin magic
 
